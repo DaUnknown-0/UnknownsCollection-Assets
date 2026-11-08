@@ -1,0 +1,2073 @@
+{
+ "format": 1,
+ "roles": {
+  "Anti tp": {
+   "anim": {
+    "file": "antitp_anim_b2336c0c.json",
+    "size": 13966,
+    "sha256": "b2336c0c46051171835f0a0baffe4072516da2dd9d105d580d3e8a5a6dfd17f5"
+   },
+   "plate": {
+    "file": "antitp_plate_9d951ba0.jpg",
+    "size": 15172,
+    "sha256": "9d951ba05225f20062dc453d566c5946cf4c280dcda46371b1c1088fece4b30c"
+   },
+   "atlas": {
+    "file": "antitp_atlas_7da04fa3.jpg",
+    "size": 98985,
+    "sha256": "7da04fa34d254cafc6af5cecff3b5a50165c0f84e8c1e7077cea058930cc48c6"
+   },
+   "alpha": {
+    "file": "antitp_alpha_bdd1319a.png",
+    "size": 14068,
+    "sha256": "bdd1319ac42200a48e2585bf43deef4bc876d4b376a57cb2c1b28a9f916721d0"
+   }
+  },
+  "Armored": {
+   "anim": {
+    "file": "armored_anim_8685c73e.json",
+    "size": 9066,
+    "sha256": "8685c73e761b3ce6c9a416843be2f5d8973ef8830a0cada60c7f576076a57103"
+   },
+   "plate": {
+    "file": "armored_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "armored_atlas_6acd03da.jpg",
+    "size": 113101,
+    "sha256": "6acd03da7d88a1181dcac75d54b514e38d29e2dacd98de268293dfeb73798f7a"
+   },
+   "alpha": {
+    "file": "armored_alpha_9f8bbc2a.png",
+    "size": 19503,
+    "sha256": "9f8bbc2a17d793244265d5b7e029a4eeff93168713ba0e43c3880e55036184a4"
+   }
+  },
+  "Arsonist": {
+   "anim": {
+    "file": "arsonist_anim_ca11d29c.json",
+    "size": 13362,
+    "sha256": "ca11d29c71b44f3e8594e85fd09c412bc5f7a34ea444a58a2ab7c226a5a3af30"
+   },
+   "plate": {
+    "file": "arsonist_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "arsonist_atlas_a2ce3f85.jpg",
+    "size": 213044,
+    "sha256": "a2ce3f852bd991b01e02dce6af27417a5be0b0cdaa98cf9a00d45e11b58756b0"
+   },
+   "alpha": {
+    "file": "arsonist_alpha_1d58b9b3.png",
+    "size": 30408,
+    "sha256": "1d58b9b3eecbef77181d34e0eb7f0fc7146af74671596886a41537aef07ea71c"
+   }
+  },
+  "Auditor": {
+   "anim": {
+    "file": "auditor_anim_c8d91451.json",
+    "size": 11062,
+    "sha256": "c8d914517bbeb2a3a6ae4184fdac28cb497b723aaa069c405190ee3631cc905e"
+   },
+   "plate": {
+    "file": "auditor_plate_8fd32e94.jpg",
+    "size": 13865,
+    "sha256": "8fd32e94697cadc099559f4f7b87d1bd2057e4e2ad9730846fd419aecbcbc2d5"
+   },
+   "atlas": {
+    "file": "auditor_atlas_0b356f7c.jpg",
+    "size": 116142,
+    "sha256": "0b356f7c0389c583396703f9056b00a2acdf1a573a4197283dcc9db3102e7c96"
+   },
+   "alpha": {
+    "file": "auditor_alpha_0da73d8b.png",
+    "size": 20618,
+    "sha256": "0da73d8b1fcd03cb8bd3ae5298d0606ade7b5f6bc72534bee866555d5753bae9"
+   }
+  },
+  "Bait": {
+   "anim": {
+    "file": "bait_anim_1e1ca22a.json",
+    "size": 14394,
+    "sha256": "1e1ca22ae6f211f672a8771a7c5aa3f85cda8e1d7b3388642790a7db162a2f0a"
+   },
+   "plate": {
+    "file": "bait_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "bait_atlas_0ad291ac.jpg",
+    "size": 173135,
+    "sha256": "0ad291ac388b745aa7ac947ed258be3899ae0ed2c3e3857787172a160e25a67f"
+   },
+   "alpha": {
+    "file": "bait_alpha_05486d03.png",
+    "size": 23185,
+    "sha256": "05486d03fa229e0137b7bf5dd0a6b0c7e09b62a761d361967fbd28e372527bdd"
+   }
+  },
+  "Beacon": {
+   "anim": {
+    "file": "beacon_anim_83f0552c.json",
+    "size": 49291,
+    "sha256": "83f0552c28e0f25b21e208eb540f5fc8e8802db945ac24c3225a93104aa0b9b3"
+   },
+   "plate": {
+    "file": "beacon_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "beacon_atlas_441ed89b.jpg",
+    "size": 185961,
+    "sha256": "441ed89b59d076b169e6d9743a31eeeeae5c21dff798b5f469ae33b93d4f6568"
+   },
+   "alpha": {
+    "file": "beacon_alpha_efc4928b.png",
+    "size": 24416,
+    "sha256": "efc4928b1100e9221bdcc0f088f1a1ff7a64b318fac5e07ac938e16514b021ed"
+   }
+  },
+  "Bloody": {
+   "anim": {
+    "file": "bloody_anim_e0067ea5.json",
+    "size": 13414,
+    "sha256": "e0067ea576ea8f011f3ea7058a009b01d3b8b72e1234a10e578175cef51ee82b"
+   },
+   "plate": {
+    "file": "bloody_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "bloody_atlas_ce50fef1.jpg",
+    "size": 182360,
+    "sha256": "ce50fef13fde8020838fb54a5830e4115957ff05a8c513c550fb81be90071a93"
+   },
+   "alpha": {
+    "file": "bloody_alpha_bb18211a.png",
+    "size": 33670,
+    "sha256": "bb18211a79a6031233d1477526c1198e7b24404157856d7843caf1643ab7dee2"
+   }
+  },
+  "Bomber": {
+   "anim": {
+    "file": "bomber_anim_a2713dad.json",
+    "size": 15795,
+    "sha256": "a2713dadd88ed35d35ed844fa0c568c04f3f9752508446120da5c3d0dd510d1d"
+   },
+   "plate": {
+    "file": "bomber_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "bomber_atlas_61a7d4ea.jpg",
+    "size": 261235,
+    "sha256": "61a7d4ea0b72d7328d1bb4cd767c2e5872e9068bbe48256e167fb19d35329a81"
+   },
+   "alpha": {
+    "file": "bomber_alpha_e553dd90.png",
+    "size": 50789,
+    "sha256": "e553dd908d600a41145ab3c37db232f235aacb07c7663703ab29df2e04a0135d"
+   }
+  },
+  "Bounty Hunter": {
+   "anim": {
+    "file": "bountyhunter_anim_389b41e0.json",
+    "size": 13510,
+    "sha256": "389b41e0a54d69bfc30d8599d34f818ef4dc65b48fecb717a9386b8300d6543c"
+   },
+   "plate": {
+    "file": "bountyhunter_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "bountyhunter_atlas_470e78a4.jpg",
+    "size": 141525,
+    "sha256": "470e78a4ebcd7d91863348ebab39ea99c06b53d97079fb89f5c4279639dba92d"
+   },
+   "alpha": {
+    "file": "bountyhunter_alpha_ecdd3a09.png",
+    "size": 27985,
+    "sha256": "ecdd3a09694dbffa27ec39e18a828787f030608869cabd688eaf97f0e4ab67cf"
+   }
+  },
+  "Bug": {
+   "anim": {
+    "file": "bug_anim_947abaeb.json",
+    "size": 16682,
+    "sha256": "947abaeb1e165a8a32da737d02c31ea01d9be4eae1c2f9800bc55aedcd4ef233"
+   },
+   "plate": {
+    "file": "bug_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "bug_atlas_4a7dadb1.jpg",
+    "size": 219054,
+    "sha256": "4a7dadb168d1c15f490456b5cafacb2cfe7c61cc443ec73ee5ff90079d6f2907"
+   },
+   "alpha": {
+    "file": "bug_alpha_07fb209d.png",
+    "size": 29450,
+    "sha256": "07fb209de8a2ea32030e073d535e7f9df7ed47f82ead0fb3af14c9a7dcb23815"
+   }
+  },
+  "Camouflager": {
+   "anim": {
+    "file": "camouflager_anim_b89fdcb1.json",
+    "size": 21182,
+    "sha256": "b89fdcb1bb27c3349078b2bc3ec35113df4f7e798f80f63157df595cad19806c"
+   },
+   "plate": {
+    "file": "camouflager_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "camouflager_atlas_eaf16d7e.jpg",
+    "size": 181649,
+    "sha256": "eaf16d7e39c880cf04da24d3a3189406364c207341c29252dd9d456b6941b9e9"
+   },
+   "alpha": {
+    "file": "camouflager_alpha_b357cd02.png",
+    "size": 29379,
+    "sha256": "b357cd0251fb15929ae11778c5efffe8efd7a30f593c2087862eadacb246af77"
+   }
+  },
+  "Chameleon": {
+   "anim": {
+    "file": "chameleon_anim_f74f1c3b.json",
+    "size": 8946,
+    "sha256": "f74f1c3b4376d8f6b9ded189ecd8e2a09badf4df89cef2fac5c405ab7b79416c"
+   },
+   "plate": {
+    "file": "chameleon_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "chameleon_atlas_0eee20ba.jpg",
+    "size": 134225,
+    "sha256": "0eee20badecab5c24a4ade5082db66acd26fdc086294ad2740b047a0d2801f06"
+   },
+   "alpha": {
+    "file": "chameleon_alpha_2143004a.png",
+    "size": 24440,
+    "sha256": "2143004aa15fa81614a033f5b780dd13344a8ebf142e0197039a9796f9ec22bd"
+   }
+  },
+  "Cleaner": {
+   "anim": {
+    "file": "cleaner_anim_6f4fc62e.json",
+    "size": 7446,
+    "sha256": "6f4fc62e344eef0669487669c035fd14d0a68cab126af6a4460cdf479765c18e"
+   },
+   "plate": {
+    "file": "cleaner_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "cleaner_atlas_bc8c1609.jpg",
+    "size": 145750,
+    "sha256": "bc8c1609e2bd66ed503e5a089df22c746d713669dfab0157eb7e81f7b59454d7"
+   },
+   "alpha": {
+    "file": "cleaner_alpha_1f8c2f08.png",
+    "size": 30810,
+    "sha256": "1f8c2f08087a1c49007881a4c4bf14542fa9849e4468f37ed5434f40b3599a2b"
+   }
+  },
+  "Collector": {
+   "anim": {
+    "file": "collector_anim_007bd405.json",
+    "size": 7246,
+    "sha256": "007bd405c2a669cdc929b47ffa17e52e0607f7a06cf9e79519aa09fcef423e09"
+   },
+   "plate": {
+    "file": "collector_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "collector_atlas_2723539b.jpg",
+    "size": 152736,
+    "sha256": "2723539b1347db9b7a1dad56746c5da16df5a28b1bfa70b707cb32098c60f040"
+   },
+   "alpha": {
+    "file": "collector_alpha_2cafcc4e.png",
+    "size": 28512,
+    "sha256": "2cafcc4e468bce17e35fc90c4bd41c7a08c137912e68f616b98d8de6d68c78f2"
+   }
+  },
+  "Colorblind": {
+   "anim": {
+    "file": "colorblind_anim_3b8a8ef0.json",
+    "size": 17674,
+    "sha256": "3b8a8ef001debc3de9ae350e869f340770f5e055bf33213147193b9e7e598f09"
+   },
+   "plate": {
+    "file": "colorblind_plate_eb72c99b.jpg",
+    "size": 14146,
+    "sha256": "eb72c99bf8273fe4417ffa880093114cf61f0816f610722705063bd5d2d1e506"
+   },
+   "atlas": {
+    "file": "colorblind_atlas_75365e95.jpg",
+    "size": 135726,
+    "sha256": "75365e95a2562483d07007a21a3a2a18ca3a6fbfccc6cbea9126d804d624b881"
+   },
+   "alpha": {
+    "file": "colorblind_alpha_18c9e362.png",
+    "size": 18785,
+    "sha256": "18c9e362722cc9f41c12ce7d7184764a959cb25c213af2dc86ab97bd804ee308"
+   }
+  },
+  "Copycat": {
+   "anim": {
+    "file": "copycat_anim_b91c1b1e.json",
+    "size": 17066,
+    "sha256": "b91c1b1e5546e5f96ba0a7e2f34600972c7c9e22163c47e7068b2dd72bfba4aa"
+   },
+   "plate": {
+    "file": "copycat_plate_ba65cf18.jpg",
+    "size": 13659,
+    "sha256": "ba65cf184cd09af6776dfb02ea87eacef473421eb785e08e144bbd330ac7243a"
+   },
+   "atlas": {
+    "file": "copycat_atlas_9510bcca.jpg",
+    "size": 125105,
+    "sha256": "9510bccad8c2b257b0c8ff66fde8ae4378bab06dc271f8f295f36ff4ed6acad8"
+   },
+   "alpha": {
+    "file": "copycat_alpha_c3b4a880.png",
+    "size": 20628,
+    "sha256": "c3b4a880e17081b1ba65f6ea6a843db35f5d19aec90dca740d307ec3e39a5b7f"
+   }
+  },
+  "Cursed Pirate": {
+   "anim": {
+    "file": "cursedpirate_anim_cb976656.json",
+    "size": 14250,
+    "sha256": "cb976656248eeceabe4b4a2c4f3cc7d0ec96a37cffc966013fe3c0ccaa35b15a"
+   },
+   "plate": {
+    "file": "cursedpirate_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "cursedpirate_atlas_507a1c89.jpg",
+    "size": 186588,
+    "sha256": "507a1c8965b136c2faf98a9cea6ad9f3cb335cb3436136d00c08463cca482a00"
+   },
+   "alpha": {
+    "file": "cursedpirate_alpha_a7363d27.png",
+    "size": 28378,
+    "sha256": "a7363d27032e6b5959074abb160d5a6cfd3bf2213c1b87c63335a03702cdcc78"
+   }
+  },
+  "Deputy": {
+   "anim": {
+    "file": "deputy_anim_41351c4f.json",
+    "size": 13366,
+    "sha256": "41351c4fde47b17843bf03083800bee40f48a145a139cd4937814967a917d424"
+   },
+   "plate": {
+    "file": "deputy_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "deputy_atlas_ef228c96.jpg",
+    "size": 161345,
+    "sha256": "ef228c96ffd75cd21b7e9ccb9b16a80c222c262ccc060928df018bf2666d6a54"
+   },
+   "alpha": {
+    "file": "deputy_alpha_6198a0f3.png",
+    "size": 25185,
+    "sha256": "6198a0f33cb39233f98f99b6712c01abf2c159a525001b3157d2de28b285be45"
+   }
+  },
+  "Detective": {
+   "anim": {
+    "file": "detective_anim_c489bbca.json",
+    "size": 14178,
+    "sha256": "c489bbca391f50b009c15479ae29bb5cffc9c3bbdf41b1d253440b8ee6bd869d"
+   },
+   "plate": {
+    "file": "detective_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "detective_atlas_b6e05b97.jpg",
+    "size": 138830,
+    "sha256": "b6e05b97965764c88ffb3c798d671285037bedbb7126827bd7b45ffd35c6df31"
+   },
+   "alpha": {
+    "file": "detective_alpha_9aa77e19.png",
+    "size": 26236,
+    "sha256": "9aa77e1958845655e773d0025bbcc35f18bf43eb921b0804d2dcd002c48b3890"
+   }
+  },
+  "Engineer": {
+   "anim": {
+    "file": "engineer_anim_76276a62.json",
+    "size": 11835,
+    "sha256": "76276a6261651c30fd6e112ca11dc7624aa7550b9f40661818710ad9c3748260"
+   },
+   "plate": {
+    "file": "engineer_plate_312d4d48.jpg",
+    "size": 14053,
+    "sha256": "312d4d481e7bab6f96087d5bdcf6062cfd8e371598bee1051010e95a80267fd7"
+   },
+   "atlas": {
+    "file": "engineer_atlas_0648d900.jpg",
+    "size": 172336,
+    "sha256": "0648d900a77e9e3897a55c5fcbdc3a2f47b5accd7dc8bf2bf7ba2c97d5b60eec"
+   },
+   "alpha": {
+    "file": "engineer_alpha_91e13bd6.png",
+    "size": 26371,
+    "sha256": "91e13bd68a77abefd81bd9a8f82833c0707cde739e986bf858d2c7bd73a69969"
+   }
+  },
+  "Eraser": {
+   "anim": {
+    "file": "eraser_anim_9f694c27.json",
+    "size": 16954,
+    "sha256": "9f694c27712a80e35eda0610b03b751f6212aa77af285969b82709b0e63fbf50"
+   },
+   "plate": {
+    "file": "eraser_plate_06c43c5d.jpg",
+    "size": 15127,
+    "sha256": "06c43c5d1bbc1988ad4f7379e4d5ed2dc4ba9ed802d41b46e83a8fa1d01fc3c6"
+   },
+   "atlas": {
+    "file": "eraser_atlas_4ff41875.jpg",
+    "size": 108691,
+    "sha256": "4ff41875a7dbe77721f80b6cf1998fa4b8b4eb52dea8e51f0178bd8536a7ff4b"
+   },
+   "alpha": {
+    "file": "eraser_alpha_9c09b596.png",
+    "size": 15697,
+    "sha256": "9c09b59637a12f4860ae72e1b92952d1652b1b6933f409f6ed76b06304fc75ff"
+   }
+  },
+  "Evil Guesser": {
+   "anim": {
+    "file": "evilguesser_anim_d0217e1f.json",
+    "size": 18290,
+    "sha256": "d0217e1fe22cabd81111c99789fbebabfc03a5519ef1f68ba2f1375a74a2f483"
+   },
+   "plate": {
+    "file": "evilguesser_plate_f5aab5d5.jpg",
+    "size": 15142,
+    "sha256": "f5aab5d5feb89bef38f9a2335bc09f3488bf89239a9409e3fdee4bfc94cc4f90"
+   },
+   "atlas": {
+    "file": "evilguesser_atlas_0a7348b2.jpg",
+    "size": 94303,
+    "sha256": "0a7348b23bb9139a15e5f9885b2c57f22d18c42cb971c2e2465bcb30faf80e08"
+   },
+   "alpha": {
+    "file": "evilguesser_alpha_12841b5c.png",
+    "size": 16815,
+    "sha256": "12841b5c8df7674ff40c82873e7f1ddecdc941e6ae820c39c6695fa441b6dc03"
+   }
+  },
+  "Faker": {
+   "anim": {
+    "file": "faker_anim_bb8d37c9.json",
+    "size": 15342,
+    "sha256": "bb8d37c9311b8d122838678ec663fb9053a3550821d8fc6bcb0fe2ebc9e7f303"
+   },
+   "plate": {
+    "file": "faker_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "faker_atlas_e3b4567d.jpg",
+    "size": 173917,
+    "sha256": "e3b4567d3f42e7634caf80e9524d0e7ca009cbd1eb2106a9cae0f5ce3c9f5d5f"
+   },
+   "alpha": {
+    "file": "faker_alpha_a8415814.png",
+    "size": 30631,
+    "sha256": "a841581405093453e898b1c6b8caaef8f95d6ebeaec061b0b5f3058425c97d23"
+   }
+  },
+  "Follower": {
+   "anim": {
+    "file": "follower_anim_33a15a64.json",
+    "size": 13450,
+    "sha256": "33a15a64206c052cfd2b2207b3cdebc89230cafc10f8f69df39420cc90e5711c"
+   },
+   "plate": {
+    "file": "follower_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "follower_atlas_cfabc4a5.jpg",
+    "size": 74552,
+    "sha256": "cfabc4a59304a5ecb24cf938765c5b6698072b050f684a7155f4c4dd0f6e24e9"
+   },
+   "alpha": {
+    "file": "follower_alpha_1da1da77.png",
+    "size": 13737,
+    "sha256": "1da1da7768005a641ed4ac88268d791ebd75d7f089bb48eaf9918dfc3f883320"
+   }
+  },
+  "Gambler": {
+   "anim": {
+    "file": "gambler_anim_fb839dc6.json",
+    "size": 17482,
+    "sha256": "fb839dc662a862fc2f50485d79a154891a25f448f26e2be07036980635a08f68"
+   },
+   "plate": {
+    "file": "gambler_plate_492420ef.jpg",
+    "size": 15140,
+    "sha256": "492420efa2141f4ca59e0224ee2cc236752a849a4f907e09a8c6facace179dc3"
+   },
+   "atlas": {
+    "file": "gambler_atlas_fba7c2a3.jpg",
+    "size": 183362,
+    "sha256": "fba7c2a36792bc5a43052556de167054768cf2068d5c98c6153ad40eed512d45"
+   },
+   "alpha": {
+    "file": "gambler_alpha_f790ead1.png",
+    "size": 31598,
+    "sha256": "f790ead13c65e7f7478cbf60c5858276a71bf0153bf38996cf4501a46b4375cb"
+   }
+  },
+  "Giant": {
+   "anim": {
+    "file": "giant_anim_cb91b303.json",
+    "size": 17307,
+    "sha256": "cb91b30393eac6276b9aac3e6b767846deb8c868ba3bc68caa0afb16d39d520f"
+   },
+   "plate": {
+    "file": "giant_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "giant_atlas_d70df114.jpg",
+    "size": 265220,
+    "sha256": "d70df1147f47b3715beb21da07098eb849ce0d6e9252413898c8bc78a27ca690"
+   },
+   "alpha": {
+    "file": "giant_alpha_43540011.png",
+    "size": 58003,
+    "sha256": "4354001146a51f07bc8105eb9ac25539168254691b7d4e0ef3260556093f93cd"
+   }
+  },
+  "Godfather": {
+   "anim": {
+    "file": "godfather_anim_05335966.json",
+    "size": 17398,
+    "sha256": "053359662207180c596f5ebc7d1bc6446a062f5ef36f084bc612ed9e015c90dc"
+   },
+   "plate": {
+    "file": "godfather_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "godfather_atlas_d00b98d4.jpg",
+    "size": 128156,
+    "sha256": "d00b98d4e59824446e6f0f8aef6ba0798f652135f7c3c347b68351197ea2299d"
+   },
+   "alpha": {
+    "file": "godfather_alpha_6f02a801.png",
+    "size": 21499,
+    "sha256": "6f02a801392d1ac3c61a30831fb4ced66de9ee7805b0fac93091f87ae55d0fe1"
+   }
+  },
+  "Hacker": {
+   "anim": {
+    "file": "hacker_anim_4b668691.json",
+    "size": 10390,
+    "sha256": "4b668691137a61baac977a7bf5d09f5a6c0cc8120119e78a5b47989934d0cd23"
+   },
+   "plate": {
+    "file": "hacker_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "hacker_atlas_7e576260.jpg",
+    "size": 49853,
+    "sha256": "7e57626087eade2215dff5291ca87184e573f17bc37346b8a6bed6e507721436"
+   },
+   "alpha": {
+    "file": "hacker_alpha_49ad5088.png",
+    "size": 6533,
+    "sha256": "49ad50888820a8e5d9635cce2151180105d641f7d4f0a694d0222ec961099f5d"
+   }
+  },
+  "Hunter": {
+   "anim": {
+    "file": "hunter_anim_a0448718.json",
+    "size": 10314,
+    "sha256": "a0448718558d07b26123b4ff7be504a7be2e485442ed6a5180208d67d5405cb4"
+   },
+   "plate": {
+    "file": "hunter_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "hunter_atlas_24877279.jpg",
+    "size": 149376,
+    "sha256": "248772791a061247f1972288e075e88abd75a86665e8f5ffe2aa215d92097f70"
+   },
+   "alpha": {
+    "file": "hunter_alpha_8a0f7ec3.png",
+    "size": 29281,
+    "sha256": "8a0f7ec33cfc422e671b7db1a64dd2796389cf216ae7f221f4f4cf11372adb17"
+   }
+  },
+  "Hypnotist": {
+   "anim": {
+    "file": "hypnotist_anim_12256ce3.json",
+    "size": 15394,
+    "sha256": "12256ce3b73688d97f35bebe318de0c5519e4f3e107b278e2c0aa45d9dfad290"
+   },
+   "plate": {
+    "file": "hypnotist_plate_492420ef.jpg",
+    "size": 15140,
+    "sha256": "492420efa2141f4ca59e0224ee2cc236752a849a4f907e09a8c6facace179dc3"
+   },
+   "atlas": {
+    "file": "hypnotist_atlas_ce276199.jpg",
+    "size": 186665,
+    "sha256": "ce276199184cdc7f141147f10ea81041a145a9ade8f32a59dcff64cf3e0d16e0"
+   },
+   "alpha": {
+    "file": "hypnotist_alpha_73099955.png",
+    "size": 28966,
+    "sha256": "73099955b7ed55138e13556ab052c2e8708159585c7985ce990ffff41902b52b"
+   }
+  },
+  "Illusionist": {
+   "anim": {
+    "file": "illusionist_anim_963f79a4.json",
+    "size": 12946,
+    "sha256": "963f79a457ee96932fa57019ca3f9b948d2bc3b86b33aac542eca27661d5595d"
+   },
+   "plate": {
+    "file": "illusionist_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "illusionist_atlas_614eac72.jpg",
+    "size": 186790,
+    "sha256": "614eac72b26d1b089190831a4f6835ac7e386d36562c15fc7599f261c5103874"
+   },
+   "alpha": {
+    "file": "illusionist_alpha_cea7c12f.png",
+    "size": 34568,
+    "sha256": "cea7c12fc4104525774d0b41daaca77c05e64d67fcb6882028db15f79785bb8f"
+   }
+  },
+  "Invert": {
+   "anim": {
+    "file": "invert_anim_95077b38.json",
+    "size": 5418,
+    "sha256": "95077b38c084a1e9ce7c97d83c0bd27841d6fdfdcb563e3f27308859901348ff"
+   },
+   "plate": {
+    "file": "invert_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "invert_atlas_e31c9af2.jpg",
+    "size": 127092,
+    "sha256": "e31c9af222fb9ee1fa80af99ec3dd6ef00026ef72728dee987d07e466ee864b0"
+   },
+   "alpha": {
+    "file": "invert_alpha_41277c66.png",
+    "size": 25055,
+    "sha256": "41277c6664f5ca7be7c50828d6c1923bc33cf5bf2dee3083af8f63350f6e12de"
+   }
+  },
+  "Jackal": {
+   "anim": {
+    "file": "jackal_anim_c36e589a.json",
+    "size": 11978,
+    "sha256": "c36e589ab885833fcc3a0bd1341e72d37bb7c1bf04d35370f15a3fabcdf53479"
+   },
+   "plate": {
+    "file": "jackal_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "jackal_atlas_da02c49a.jpg",
+    "size": 166182,
+    "sha256": "da02c49a31fa0c22254a4f013bae5f34042a713f55c60d6df2f253a981403944"
+   },
+   "alpha": {
+    "file": "jackal_alpha_886c537d.png",
+    "size": 29472,
+    "sha256": "886c537d73bb435d60a345440c0371d7b0dea1c65875fe3dfadee790899de3ad"
+   }
+  },
+  "Janitor": {
+   "anim": {
+    "file": "janitor_anim_46254738.json",
+    "size": 10754,
+    "sha256": "4625473829fd79d5db6ae8b7ab47e0bdef768c10310c475640e06871465f3109"
+   },
+   "plate": {
+    "file": "janitor_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "janitor_atlas_84a2e931.jpg",
+    "size": 137396,
+    "sha256": "84a2e931ef83bdd10d7e4843b4096b18e24242abf8be001de798073e0a15ea05"
+   },
+   "alpha": {
+    "file": "janitor_alpha_fb1cfb20.png",
+    "size": 27452,
+    "sha256": "fb1cfb209274451592454bf6b00777d8f724b60859185f503668782729a1f823"
+   }
+  },
+  "Jester": {
+   "anim": {
+    "file": "jester_anim_93b4cb41.json",
+    "size": 21866,
+    "sha256": "93b4cb41686c48f929ec16277883ecda0d51d25f62de5d9f3535fcb4e4bb13c0"
+   },
+   "plate": {
+    "file": "jester_plate_0f644d06.jpg",
+    "size": 15127,
+    "sha256": "0f644d06e5110631c48fc284ecd62611571e6e9874321d4675887dbbca64b487"
+   },
+   "atlas": {
+    "file": "jester_atlas_c1ebce99.jpg",
+    "size": 165725,
+    "sha256": "c1ebce9966c6ace481bc829e8218000aacd5b7426fafedf1c408df0a841e6ee2"
+   },
+   "alpha": {
+    "file": "jester_alpha_302ad006.png",
+    "size": 29204,
+    "sha256": "302ad00631a82bba9ecf05fb6eaa7f22cdb941e0772d214bb5c7644165cd7ce4"
+   }
+  },
+  "King": {
+   "anim": {
+    "file": "king_anim_1a019a0b.json",
+    "size": 16778,
+    "sha256": "1a019a0b6ad080a576f964bb359968ff59edc719e220c2d1f89937109dc7bcdb"
+   },
+   "plate": {
+    "file": "king_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "king_atlas_ee6d91ac.jpg",
+    "size": 172093,
+    "sha256": "ee6d91accb8eee1c91792ee4b7153ca5357855db51b1021d84068c59872aa5a2"
+   },
+   "alpha": {
+    "file": "king_alpha_e476ee4d.png",
+    "size": 21827,
+    "sha256": "e476ee4d9537b6550aa8ef89c177cd38ac078b3b0d886292fcd79824d55839f8"
+   }
+  },
+  "Last Words": {
+   "anim": {
+    "file": "lastwords_anim_f7b72645.json",
+    "size": 17698,
+    "sha256": "f7b726451ca848e26e9aa3214a1f0587ca2bea6372fa1d3d928c92e97b3977cf"
+   },
+   "plate": {
+    "file": "lastwords_plate_04478ae5.jpg",
+    "size": 15162,
+    "sha256": "04478ae54e5f2775d197fa72464bda3ee9573d02585799b0329e9c6a9f91bdbb"
+   },
+   "atlas": {
+    "file": "lastwords_atlas_06eb9f76.jpg",
+    "size": 169140,
+    "sha256": "06eb9f766d9328f38d18f735dcacdf87f48681397a4a1e18ea108ce172aa83ae"
+   },
+   "alpha": {
+    "file": "lastwords_alpha_064eb9f1.png",
+    "size": 29149,
+    "sha256": "064eb9f18020116e2cb2b22b9670877f580567e54b0b01e0ae514895ae30a27e"
+   }
+  },
+  "Lawyer": {
+   "anim": {
+    "file": "lawyer_anim_bac7f037.json",
+    "size": 16450,
+    "sha256": "bac7f0372f3e18b4398af33e7738aaf2c881a8fe76aeda033e318caf6f6320c6"
+   },
+   "plate": {
+    "file": "lawyer_plate_0f644d06.jpg",
+    "size": 15127,
+    "sha256": "0f644d06e5110631c48fc284ecd62611571e6e9874321d4675887dbbca64b487"
+   },
+   "atlas": {
+    "file": "lawyer_atlas_9765ba3f.jpg",
+    "size": 117951,
+    "sha256": "9765ba3f16086179ee00a04825621ab9b6d8f95a7be85a06679e3af6a42dd3e5"
+   },
+   "alpha": {
+    "file": "lawyer_alpha_01f5d27a.png",
+    "size": 21611,
+    "sha256": "01f5d27ab1990439eba417da3199bf197b9f55ab3d1c8d2897ad3aaf820be8c8"
+   }
+  },
+  "Lighter": {
+   "anim": {
+    "file": "lighter_anim_f56dfb4c.json",
+    "size": 53135,
+    "sha256": "f56dfb4c61f94d98eb781b3bb262641fd1c1173dc3b32c79f3446d700b66105f"
+   },
+   "plate": {
+    "file": "lighter_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "lighter_atlas_7b88710d.jpg",
+    "size": 231455,
+    "sha256": "7b88710ddc096ac525e87242a0b62e16ae7b47ccb7a34f99c4a8ffe45c060e63"
+   },
+   "alpha": {
+    "file": "lighter_alpha_70618f80.png",
+    "size": 35091,
+    "sha256": "70618f8065b638ede4e8f4b8e12df41d6f5a4b261605b82e4760b0371501ae55"
+   }
+  },
+  "Lover": {
+   "anim": {
+    "file": "lover_anim_3ec5066f.json",
+    "size": 11598,
+    "sha256": "3ec5066f6edea75344003b0ebdeb0ad90246735be3d335c4edfdac849b75d1b6"
+   },
+   "plate": {
+    "file": "lover_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "lover_atlas_75b674c0.jpg",
+    "size": 117925,
+    "sha256": "75b674c07b8f206e8a34eb91aa6a4e262e90634f91987f3b2b8883e08dfca0df"
+   },
+   "alpha": {
+    "file": "lover_alpha_a16428a4.png",
+    "size": 21789,
+    "sha256": "a16428a4b47281770bee43fcb3efa5313aa2c1368c97e162c85ac433f00b4f15"
+   }
+  },
+  "Mafioso": {
+   "anim": {
+    "file": "mafioso_anim_49af2b8e.json",
+    "size": 17366,
+    "sha256": "49af2b8e848db422d94cd04abe0a644a312e6504733dec4abb2dbadfb655c973"
+   },
+   "plate": {
+    "file": "mafioso_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "mafioso_atlas_198df187.jpg",
+    "size": 119946,
+    "sha256": "198df187409fb39bcbe31c9bb9f4b23531e9d9e412536275508e521a17c0d0e7"
+   },
+   "alpha": {
+    "file": "mafioso_alpha_b38e7d6d.png",
+    "size": 23556,
+    "sha256": "b38e7d6d02e13686339b4d114e016a234187908275762cfb93f1edcdb8330f09"
+   }
+  },
+  "Maniac": {
+   "anim": {
+    "file": "maniac_anim_be1660a2.json",
+    "size": 13734,
+    "sha256": "be1660a2c5ccc9698c714c52013ce32f3a24846ad1fe70526a37c64ea1afda54"
+   },
+   "plate": {
+    "file": "maniac_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "maniac_atlas_c00dd4ca.jpg",
+    "size": 246593,
+    "sha256": "c00dd4ca0b5f0e66da50b48ee4f2f33baa066686f47bfb6311f92181924da94f"
+   },
+   "alpha": {
+    "file": "maniac_alpha_485d6ee4.png",
+    "size": 43878,
+    "sha256": "485d6ee4b36162546262557dacd7d6096162af6195fca5707c8a6c5df54f3b2e"
+   }
+  },
+  "Manipulator": {
+   "anim": {
+    "file": "manipulator_anim_847ce1ea.json",
+    "size": 12546,
+    "sha256": "847ce1ea56716ff013e5141340532f2e278a09268727e9891bb0a4987c5b4209"
+   },
+   "plate": {
+    "file": "manipulator_plate_413f8acd.jpg",
+    "size": 15706,
+    "sha256": "413f8acd4686a22f239cee608ad30f9da1c31da9c0ca75fe879c5bd01a052cad"
+   },
+   "atlas": {
+    "file": "manipulator_atlas_7bb8c480.jpg",
+    "size": 95906,
+    "sha256": "7bb8c480c5ef986569d44a8d657775a764ffd6bb4c88fc01d18340f6689cd3de"
+   },
+   "alpha": {
+    "file": "manipulator_alpha_29ddcd59.png",
+    "size": 18671,
+    "sha256": "29ddcd59da3db064e4724fdf53d228a961c4d7b8d850b68366677404b74c41ad"
+   }
+  },
+  "Mayor": {
+   "anim": {
+    "file": "mayor_anim_f6c4934e.json",
+    "size": 19714,
+    "sha256": "f6c4934e66636804d4cb79d300eb0a7b1755d04a23d68a92468a583faffd0c85"
+   },
+   "plate": {
+    "file": "mayor_plate_0f644d06.jpg",
+    "size": 15127,
+    "sha256": "0f644d06e5110631c48fc284ecd62611571e6e9874321d4675887dbbca64b487"
+   },
+   "atlas": {
+    "file": "mayor_atlas_25e641bf.jpg",
+    "size": 87395,
+    "sha256": "25e641bf8de7405401df8a01006f164dc4309836a6ab42972f6add6ad32495e1"
+   },
+   "alpha": {
+    "file": "mayor_alpha_8e1f6fcd.png",
+    "size": 15822,
+    "sha256": "8e1f6fcd72ce1a4003b1f41b16a18cc6f3d9c4d781ea4b68fa703a204117e79a"
+   }
+  },
+  "Medic": {
+   "anim": {
+    "file": "medic_anim_f110c3f0.json",
+    "size": 13182,
+    "sha256": "f110c3f0e288420f9aa669659574c68f47b58c8a27bac3307cff3fe799be9de3"
+   },
+   "plate": {
+    "file": "medic_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "medic_atlas_a7a2c0a4.jpg",
+    "size": 175417,
+    "sha256": "a7a2c0a469fc9fe74e4bda33bb8e5c929af9b60817694690bc59188daf7ff31b"
+   },
+   "alpha": {
+    "file": "medic_alpha_b526f058.png",
+    "size": 27638,
+    "sha256": "b526f0586b2aa391b129799d001641fd629a7976ca8458d56b3b759870409edf"
+   }
+  },
+  "Medium": {
+   "anim": {
+    "file": "medium_anim_fd77fbd4.json",
+    "size": 6978,
+    "sha256": "fd77fbd42ddba471eacb658bd77639398aa2fe979a9980ef0051a175dcf27ffc"
+   },
+   "plate": {
+    "file": "medium_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "medium_atlas_fda82b84.jpg",
+    "size": 103736,
+    "sha256": "fda82b843796e6e03ade00f5f72061d1f01fea0fa7c56371966a6282753fac97"
+   },
+   "alpha": {
+    "file": "medium_alpha_d9baa3f7.png",
+    "size": 18334,
+    "sha256": "d9baa3f798ea2b7adbff6e46beba280c0b00202b59bef40948d319652d87e777"
+   }
+  },
+  "Mini": {
+   "anim": {
+    "file": "mini_anim_91ccefb5.json",
+    "size": 7918,
+    "sha256": "91ccefb5e3381832bd9ac5ca3bb43e86b04157556e423683e8d398dfb97731be"
+   },
+   "plate": {
+    "file": "mini_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "mini_atlas_d097e0fe.jpg",
+    "size": 167559,
+    "sha256": "d097e0fe0ebc1071fb01eae66bdf976b4407c517b11f69db842c489e2fe8dfff"
+   },
+   "alpha": {
+    "file": "mini_alpha_3706d43b.png",
+    "size": 26122,
+    "sha256": "3706d43b751f1176352273b5d0d4a4e3660675e2c85a85827e129f862fc2edd5"
+   }
+  },
+  "Mixer": {
+   "anim": {
+    "file": "mixer_anim_c206644c.json",
+    "size": 13626,
+    "sha256": "c206644c35cab2ee895c52702ac74fd433d52cea456e45bb41a6d5ee516b6bfe"
+   },
+   "plate": {
+    "file": "mixer_plate_2cc53f50.jpg",
+    "size": 15089,
+    "sha256": "2cc53f50b6a71984c6a5b0bbb55646b6d635c024461d3f2e33f52232488d3369"
+   },
+   "atlas": {
+    "file": "mixer_atlas_e8610b81.jpg",
+    "size": 143968,
+    "sha256": "e8610b81726c19cb78289b3b2857d3180c72b0bb6d3ecee5bfc21ee8ef78649a"
+   },
+   "alpha": {
+    "file": "mixer_alpha_e62bf114.png",
+    "size": 23992,
+    "sha256": "e62bf114e7a47cba41c48f57c1847b3a02e1caf98fd2577aa842ce8523cfe0d0"
+   }
+  },
+  "Morphling": {
+   "anim": {
+    "file": "morphling_anim_afc8dc36.json",
+    "size": 14074,
+    "sha256": "afc8dc3642401d635618fdc83da70546d587f9b77532e3d1baf875fb151daf38"
+   },
+   "plate": {
+    "file": "morphling_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "morphling_atlas_53c4806e.jpg",
+    "size": 122390,
+    "sha256": "53c4806e7b863b570019e4641478fcc53db1af456d8222e4e1d638ef80104c6c"
+   },
+   "alpha": {
+    "file": "morphling_alpha_11b78cbc.png",
+    "size": 23089,
+    "sha256": "11b78cbcec0d8f70b98d8c280e5f0538a2d5e31de6e38e880014285be00bce1c"
+   }
+  },
+  "Necromancer": {
+   "anim": {
+    "file": "necromancer_anim_a50b102e.json",
+    "size": 8458,
+    "sha256": "a50b102e21fcb0d8518247cb31b9157ed324d0bd327c2f0cb023f192537a9cf4"
+   },
+   "plate": {
+    "file": "necromancer_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "necromancer_atlas_36734bc2.jpg",
+    "size": 179550,
+    "sha256": "36734bc2c217355f43f1f124852ae184cdaf50a73f19ecd7ebf778a82b7ee199"
+   },
+   "alpha": {
+    "file": "necromancer_alpha_eb2eb0e5.png",
+    "size": 29681,
+    "sha256": "eb2eb0e5c3c3fcdb0fca6e0c7dad1d7a2971e10422bced423e62a2c3a7ec5e50"
+   }
+  },
+  "Nice Guesser": {
+   "anim": {
+    "file": "niceguesser_anim_67636ca2.json",
+    "size": 16538,
+    "sha256": "67636ca28463612f22ceeb9a2aa74ad2493f19b248bf442c3422beb43ef706f2"
+   },
+   "plate": {
+    "file": "niceguesser_plate_b53278cd.jpg",
+    "size": 15151,
+    "sha256": "b53278cd6397b05f2197c1d2c735bf2bb9e258cd91bfcb86f7df6cd7e2951ed8"
+   },
+   "atlas": {
+    "file": "niceguesser_atlas_deb070cb.jpg",
+    "size": 81897,
+    "sha256": "deb070cb483447f365b30e907db0b41839e4a52f290321b1519b4135121eb030"
+   },
+   "alpha": {
+    "file": "niceguesser_alpha_e53cdb39.png",
+    "size": 13702,
+    "sha256": "e53cdb399a24364d605f95b62f8c34c4ea88ae9e3202c8ab1cca1403cfebbd60"
+   }
+  },
+  "Ninja": {
+   "anim": {
+    "file": "ninja_anim_16ce5d46.json",
+    "size": 8962,
+    "sha256": "16ce5d463f9955048008a6f36510c548610629eeb1b107cb4c768323c833cd81"
+   },
+   "plate": {
+    "file": "ninja_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "ninja_atlas_d5230d68.jpg",
+    "size": 170608,
+    "sha256": "d5230d68de423f454caf5050ef55353497c90ea7337e8e81a5006bd60b467c57"
+   },
+   "alpha": {
+    "file": "ninja_alpha_f3ed93cd.png",
+    "size": 32551,
+    "sha256": "f3ed93cda20e737ccf0cf6f92c41d3056d3de095e43f98f89b3686c8fae306cd"
+   }
+  },
+  "Paramedic": {
+   "anim": {
+    "file": "paramedic_anim_c9776458.json",
+    "size": 13470,
+    "sha256": "c9776458faefa1e409e471fb5bd52a76fb89651d9a20ce3da0e3ec27b34097f0"
+   },
+   "plate": {
+    "file": "paramedic_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "paramedic_atlas_73c9e076.jpg",
+    "size": 178629,
+    "sha256": "73c9e076f041c4cb6abd3dda84df8c0dbb6420ccc08d7e722a763fba3e781a7c"
+   },
+   "alpha": {
+    "file": "paramedic_alpha_d8844e2e.png",
+    "size": 31826,
+    "sha256": "d8844e2ebb9153230075a1e3b8e4abf998c194db0cc016bca9fa8036573479de"
+   }
+  },
+  "Pelican": {
+   "anim": {
+    "file": "pelican_anim_6fd164aa.json",
+    "size": 11622,
+    "sha256": "6fd164aaa064a8f76757dfbc4a9db5feb4de31548beedbc73c2c1b5a0d721e8c"
+   },
+   "plate": {
+    "file": "pelican_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "pelican_atlas_860380c1.jpg",
+    "size": 193560,
+    "sha256": "860380c16160ded196286848b5ecb24f7e2455ab0755821aedef45ccb487edb3"
+   },
+   "alpha": {
+    "file": "pelican_alpha_002ddcd3.png",
+    "size": 33974,
+    "sha256": "002ddcd385bf3abe1ef26191aff4f062a780aae81032303bb22bfab2ec7e88b8"
+   }
+  },
+  "Poisoner": {
+   "anim": {
+    "file": "poisoner_anim_71d77427.json",
+    "size": 12770,
+    "sha256": "71d774276402698552ea648f35b91c63c23902a418c1a7fdff9b43dfb85bb937"
+   },
+   "plate": {
+    "file": "poisoner_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "poisoner_atlas_c7b0328f.jpg",
+    "size": 205678,
+    "sha256": "c7b0328fd99afe3b228e7bf42c2f5c92486f8dad7df4e197808e60dd78513c7b"
+   },
+   "alpha": {
+    "file": "poisoner_alpha_0338a475.png",
+    "size": 37582,
+    "sha256": "0338a475aac82ed27d59620a09c2b491cc73d6b883467985bf29587b0858bfe3"
+   }
+  },
+  "Poltergeist": {
+   "anim": {
+    "file": "poltergeist_anim_cbded009.json",
+    "size": 15799,
+    "sha256": "cbded009cf3d05d78e6a233f0a3d995477321dc5e4fdfea11fe2ea802deff8a7"
+   },
+   "plate": {
+    "file": "poltergeist_plate_58017c20.jpg",
+    "size": 13967,
+    "sha256": "58017c20390e738a1535c283d11edd9094d1ec867d86d04fc9f036b814fad104"
+   },
+   "atlas": {
+    "file": "poltergeist_atlas_efc5f3ce.jpg",
+    "size": 283700,
+    "sha256": "efc5f3ce5f61d14e3afaf9fc8ac20afe60ea2d71cb454b7bfaaf8dd18b2e4cc4"
+   },
+   "alpha": {
+    "file": "poltergeist_alpha_3b47205a.png",
+    "size": 44831,
+    "sha256": "3b47205a9a51425dacb194dabba39355881bda661924b6fcb143399ee491e543"
+   }
+  },
+  "Portalmaker": {
+   "anim": {
+    "file": "portalmaker_anim_1ea313a1.json",
+    "size": 13838,
+    "sha256": "1ea313a1bc0fb996c3d675526147ec1fdc2a47318eae756783979d993073afa4"
+   },
+   "plate": {
+    "file": "portalmaker_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "portalmaker_atlas_ea8fb466.jpg",
+    "size": 129583,
+    "sha256": "ea8fb4665a41ba59959d81432ed421342488008685c75da7f53326ecc3d1f40f"
+   },
+   "alpha": {
+    "file": "portalmaker_alpha_ded1a31f.png",
+    "size": 22928,
+    "sha256": "ded1a31f47bb04e8a51e27f92e117b4ac94258f52ce7012eb5b441e1351e6193"
+   }
+  },
+  "Prosecutor": {
+   "anim": {
+    "file": "prosecutor_anim_5fdc3061.json",
+    "size": 16738,
+    "sha256": "5fdc3061969f96b250526d3fc78d33cc009f895230a0b2274ef313de9484d6e1"
+   },
+   "plate": {
+    "file": "prosecutor_plate_0f644d06.jpg",
+    "size": 15127,
+    "sha256": "0f644d06e5110631c48fc284ecd62611571e6e9874321d4675887dbbca64b487"
+   },
+   "atlas": {
+    "file": "prosecutor_atlas_640637c1.jpg",
+    "size": 125077,
+    "sha256": "640637c13641e73a853f866473002ad67f6b66e16b77947429ee5a5826da90cc"
+   },
+   "alpha": {
+    "file": "prosecutor_alpha_1d482bda.png",
+    "size": 22116,
+    "sha256": "1d482bda1b95ff97ab50a42c9661612defe35bcbe3e77936d91a3631d08e6086"
+   }
+  },
+  "Pursuer": {
+   "anim": {
+    "file": "pursuer_anim_5f44a084.json",
+    "size": 9194,
+    "sha256": "5f44a0841a46ee2c7babd19fe2467bf10c2ac2613319e3b8e9494861a2154ce8"
+   },
+   "plate": {
+    "file": "pursuer_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "pursuer_atlas_c92537fc.jpg",
+    "size": 124833,
+    "sha256": "c92537fc4e65729d2a7fa5cc5418e844220ef1d18c268e109b78587033564c67"
+   },
+   "alpha": {
+    "file": "pursuer_alpha_4ff799a6.png",
+    "size": 21420,
+    "sha256": "4ff799a62e1e4d5778c3a3242c1c6e9db4a98c005914869a0a7dee43cd90027b"
+   }
+  },
+  "Saboteur": {
+   "anim": {
+    "file": "saboteur_anim_06db3c51.json",
+    "size": 10914,
+    "sha256": "06db3c51037bc5b2d17b4f98f8682cc4d0d20633c14c61c665dec87fa2428605"
+   },
+   "plate": {
+    "file": "saboteur_plate_1222e55d.jpg",
+    "size": 13961,
+    "sha256": "1222e55d780c43658d0d4df71fbf05c2a2da6152a7e6951494ac1d9cc2eb9bd3"
+   },
+   "atlas": {
+    "file": "saboteur_atlas_c1f4ab8d.jpg",
+    "size": 130812,
+    "sha256": "c1f4ab8d1ee4a9627d8621adb5e8085f5191b4cb91ff5d894482584621a95995"
+   },
+   "alpha": {
+    "file": "saboteur_alpha_f07ce7ce.png",
+    "size": 24828,
+    "sha256": "f07ce7ce2a945acebacc9014d3f37b0330eac7a05b8083e35b76531362efd6bb"
+   }
+  },
+  "Scout": {
+   "anim": {
+    "file": "scout_anim_be402bf9.json",
+    "size": 50603,
+    "sha256": "be402bf98707dd3fbc49255e74781d6abcc0e55f37ff69de6b78d8d6e0a44db8"
+   },
+   "plate": {
+    "file": "scout_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "scout_atlas_abfa9289.jpg",
+    "size": 196306,
+    "sha256": "abfa9289c4c9fc8fa932692b248642afdc78026453a49f8e9fe8086a6b8fd1c3"
+   },
+   "alpha": {
+    "file": "scout_alpha_94abd592.png",
+    "size": 37229,
+    "sha256": "94abd592cc89eaf798870393935f8d4a4f0f01d6e19a01fd060a69f16c6617ce"
+   }
+  },
+  "Security Guard": {
+   "anim": {
+    "file": "securityguard_anim_04106a03.json",
+    "size": 10902,
+    "sha256": "04106a03d79cb490207611eb731fe41a71809600c506aa7405fc9f9b8b8d225d"
+   },
+   "plate": {
+    "file": "securityguard_plate_19a8fd9d.jpg",
+    "size": 13624,
+    "sha256": "19a8fd9db83ad0c0405b1715784ad797a40304b2ae7192b91dc674224149ddf1"
+   },
+   "atlas": {
+    "file": "securityguard_atlas_c8a04f4d.jpg",
+    "size": 113185,
+    "sha256": "c8a04f4dc48077b543fce4ee78f93466a9285f47cc0641c59be4fc60abb33aec"
+   },
+   "alpha": {
+    "file": "securityguard_alpha_1ed98053.png",
+    "size": 19945,
+    "sha256": "1ed98053fc790288906f35286f6dc72a28031b393519bee6838ac2c85ddbfcc8"
+   }
+  },
+  "Seer": {
+   "anim": {
+    "file": "seer_anim_3c62cecc.json",
+    "size": 11838,
+    "sha256": "3c62cecc2bb7ffe6f06ec967281f7bdd69f4b2f0a5d6e210b56c3a34216ece25"
+   },
+   "plate": {
+    "file": "seer_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "seer_atlas_63701a89.jpg",
+    "size": 191638,
+    "sha256": "63701a8940221fd1201696a16d13db2116291b471e6dff1af63f9eed896c854e"
+   },
+   "alpha": {
+    "file": "seer_alpha_00036632.png",
+    "size": 27218,
+    "sha256": "00036632adf41830862a8bbfc409cf058672d8883652d78eddf2547163072f83"
+   }
+  },
+  "Shade": {
+   "anim": {
+    "file": "shade_anim_e8e022d8.json",
+    "size": 11658,
+    "sha256": "e8e022d8e2d534606055994819f99227af3148a582bdae526d54f5a2fe42ae54"
+   },
+   "plate": {
+    "file": "shade_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "shade_atlas_03cb9329.jpg",
+    "size": 165281,
+    "sha256": "03cb932928a76eafdd3b549df60e528bc7802d0c1d0b454e3ca3932f56517275"
+   },
+   "alpha": {
+    "file": "shade_alpha_37ab105a.png",
+    "size": 30965,
+    "sha256": "37ab105aaeeebd1d7d8a366d309e30241fa6825733145057f2e99d924ef346e3"
+   }
+  },
+  "Sheriff": {
+   "anim": {
+    "file": "sheriff_anim_5a79a717.json",
+    "size": 13834,
+    "sha256": "5a79a71724dca3c336c98547a5786e2b54e6fd562604329389ab29ac31f99c65"
+   },
+   "plate": {
+    "file": "sheriff_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "sheriff_atlas_389cab2b.jpg",
+    "size": 142148,
+    "sha256": "389cab2b3171b2bda70be5149ae46f080f7984c4540eb21949387833f724eac8"
+   },
+   "alpha": {
+    "file": "sheriff_alpha_055bd875.png",
+    "size": 23393,
+    "sha256": "055bd8753ab869d9f9608a9ebbfc3e7691a3d13390b3c4ed2b00402f2891f613"
+   }
+  },
+  "Shifter": {
+   "anim": {
+    "file": "shifter_anim_024b4d68.json",
+    "size": 16674,
+    "sha256": "024b4d68a93aea3bab2b87479c6609088b2d2c0630b8ba4389b9b30f7d9c2e8d"
+   },
+   "plate": {
+    "file": "shifter_plate_f5aab5d5.jpg",
+    "size": 15142,
+    "sha256": "f5aab5d5feb89bef38f9a2335bc09f3488bf89239a9409e3fdee4bfc94cc4f90"
+   },
+   "atlas": {
+    "file": "shifter_atlas_6299b844.jpg",
+    "size": 98495,
+    "sha256": "6299b844955fa9a4e90533040001560657696a4b4a08e9cc429e7b65dd1f135b"
+   },
+   "alpha": {
+    "file": "shifter_alpha_93f1bcf9.png",
+    "size": 15979,
+    "sha256": "93f1bcf99bac97a0008c6df07eae490e241b4d608b08ca2b82af575d2df0b3d1"
+   }
+  },
+  "Sidekick": {
+   "anim": {
+    "file": "sidekick_anim_f969112b.json",
+    "size": 12706,
+    "sha256": "f969112bffdde1bab43d37068da9fc09a6df82f9b138fb8d9f7e2a3130e4fa17"
+   },
+   "plate": {
+    "file": "sidekick_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "sidekick_atlas_3b6220fd.jpg",
+    "size": 106021,
+    "sha256": "3b6220fde2bc5113fb765eac155ac1f3755f3f5c328c0e998de1ddbf631b9623"
+   },
+   "alpha": {
+    "file": "sidekick_alpha_f83a1485.png",
+    "size": 18466,
+    "sha256": "f83a14852012e47e47ebe5b027b69c6f05b02a8100d9de5b137f99c86674a57e"
+   }
+  },
+  "Silencer": {
+   "anim": {
+    "file": "silencer_anim_bb305cab.json",
+    "size": 17762,
+    "sha256": "bb305cabe327db9e063657bfee911b13fac7a7b36879b1d3dd7a2891d7e82e5e"
+   },
+   "plate": {
+    "file": "silencer_plate_784e3874.jpg",
+    "size": 15145,
+    "sha256": "784e387453d80d29ac457594fa570358471eb11b9b55955f88045f2290f40f23"
+   },
+   "atlas": {
+    "file": "silencer_atlas_cafa2f2a.jpg",
+    "size": 162961,
+    "sha256": "cafa2f2ac53b76598b215105c11be6efcb71d4109fef3220f473432989082f88"
+   },
+   "alpha": {
+    "file": "silencer_alpha_0991b810.png",
+    "size": 22889,
+    "sha256": "0991b81074555812b7738aba23146dad4c7dc63090f46c576650b9b7d60e530c"
+   }
+  },
+  "Siphoner": {
+   "anim": {
+    "file": "siphoner_anim_7be2c1c1.json",
+    "size": 10206,
+    "sha256": "7be2c1c1b0bd14a9220c7179f29bff9300047db0ee6f6a6ae7bcaa4cc3028643"
+   },
+   "plate": {
+    "file": "siphoner_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "siphoner_atlas_0dcc8bf7.jpg",
+    "size": 159609,
+    "sha256": "0dcc8bf7be825bad7909421b135378ef8add4a9f49c687073942058b5d815e51"
+   },
+   "alpha": {
+    "file": "siphoner_alpha_8c7feadb.png",
+    "size": 24000,
+    "sha256": "8c7feadb01728f09b6e948eddb36e9aaf21976af21d3599ce215a059b2f1093e"
+   }
+  },
+  "Sixth Sense": {
+   "anim": {
+    "file": "sixthsense_anim_ea0020c2.json",
+    "size": 13826,
+    "sha256": "ea0020c266a1fbb3759fb19448a20da400b2ea2a8fb83831408f88cf7b0844b9"
+   },
+   "plate": {
+    "file": "sixthsense_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "sixthsense_atlas_24864f62.jpg",
+    "size": 227911,
+    "sha256": "24864f62a5ecef28b169bd5f025685cc2312ba1a5fb3450d0286a9d5078b5e36"
+   },
+   "alpha": {
+    "file": "sixthsense_alpha_6fd986ba.png",
+    "size": 51683,
+    "sha256": "6fd986ba05ccd43db6c3e3bfba3d7d5b75a8921552b49c51848658bda5b31e36"
+   }
+  },
+  "Skinwalker": {
+   "anim": {
+    "file": "skinwalker_anim_ba38b40f.json",
+    "size": 11042,
+    "sha256": "ba38b40fa0a0a81aa3a2a1a1dec78f4ee7949fd0c1b4fc9b3d98d6ffc17ea4b4"
+   },
+   "plate": {
+    "file": "skinwalker_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "skinwalker_atlas_3f68a716.jpg",
+    "size": 139162,
+    "sha256": "3f68a71630162ddeb6d532ba212b2f4a96c0116af80e6839c861ab8b27347829"
+   },
+   "alpha": {
+    "file": "skinwalker_alpha_e76e74b9.png",
+    "size": 25863,
+    "sha256": "e76e74b9574a94db66e101aa9da104041f0e58890f6f8adf99f1c40980f48a75"
+   }
+  },
+  "Sleepwalker": {
+   "anim": {
+    "file": "sleepwalker_anim_30a5cb28.json",
+    "size": 12798,
+    "sha256": "30a5cb28a4f97485d2b6bc695e09e70cf0d43a451e7814efcc66958916d00088"
+   },
+   "plate": {
+    "file": "sleepwalker_plate_a03a0dee.jpg",
+    "size": 15148,
+    "sha256": "a03a0dee200bda0b35de2541895acb4afa28a00768edc92711b42f857633ac1a"
+   },
+   "atlas": {
+    "file": "sleepwalker_atlas_126fb7e0.jpg",
+    "size": 151208,
+    "sha256": "126fb7e0f743fe6addc94a455f46d563bb04019bf211f20315eecc26d711e70c"
+   },
+   "alpha": {
+    "file": "sleepwalker_alpha_601261b6.png",
+    "size": 25993,
+    "sha256": "601261b63f1e9aac97b31f5e116a8e7292f4e19908095b701f003b14a65e0768"
+   }
+  },
+  "Snitch": {
+   "anim": {
+    "file": "snitch_anim_0df45690.json",
+    "size": 10638,
+    "sha256": "0df45690b3e8fa3647258625c30cff0134fc12bfa973edb5af9789d3af7f33a2"
+   },
+   "plate": {
+    "file": "snitch_plate_5f7e83a4.jpg",
+    "size": 13970,
+    "sha256": "5f7e83a40d3457162d28d1e57409bc89556e26b92c0424cfd37a69576ba131fe"
+   },
+   "atlas": {
+    "file": "snitch_atlas_242dcdb7.jpg",
+    "size": 76314,
+    "sha256": "242dcdb7b75509ce392accbba3717baafa75b78cb45f1f800150c360b1f24c1a"
+   },
+   "alpha": {
+    "file": "snitch_alpha_0d8b6189.png",
+    "size": 11786,
+    "sha256": "0d8b6189257b3fb795e5f4bfd5ce3fc553856807354dc6cca17f7013d12d6eda"
+   }
+  },
+  "Spy": {
+   "anim": {
+    "file": "spy_anim_6e1f0475.json",
+    "size": 13610,
+    "sha256": "6e1f04756c346d760ee13c7e08b957481cbe3591528c24a972e30188a6161612"
+   },
+   "plate": {
+    "file": "spy_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "spy_atlas_91b63e37.jpg",
+    "size": 66633,
+    "sha256": "91b63e3734f0f7fa33aa1908e9fc45c1c3d109c3b55227ceb136df7ced7b1bc8"
+   },
+   "alpha": {
+    "file": "spy_alpha_503ff400.png",
+    "size": 11017,
+    "sha256": "503ff4007324cb70dfd778f43097a96ef9c07fb026e413c090daa1eb4750b382"
+   }
+  },
+  "Stalker": {
+   "anim": {
+    "file": "stalker_anim_aef15565.json",
+    "size": 53143,
+    "sha256": "aef15565c4ecfd8c6294ad42820e5c653d5771f464fdf1a107effdb0e429764d"
+   },
+   "plate": {
+    "file": "stalker_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "stalker_atlas_17644db4.jpg",
+    "size": 215827,
+    "sha256": "17644db4a1498d04f6b2ee9d259305ef0bd52c78975e2c844470654bc8cfb07d"
+   },
+   "alpha": {
+    "file": "stalker_alpha_738bab7b.png",
+    "size": 23040,
+    "sha256": "738bab7b348252272c76d66289c30e237c83efd21010c9cecb120aed91a18f37"
+   }
+  },
+  "Sunglasses": {
+   "anim": {
+    "file": "sunglasses_anim_0aa9dff1.json",
+    "size": 50966,
+    "sha256": "0aa9dff1515c796d728c7c7c471f7d18708bb1cb5d59de867426e36f7820fd73"
+   },
+   "plate": {
+    "file": "sunglasses_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "sunglasses_atlas_3962e5b7.jpg",
+    "size": 97793,
+    "sha256": "3962e5b7de038b189e2c305cbcef89c23ea7e7a82060e3c808dcff6a63d1bbc3"
+   },
+   "alpha": {
+    "file": "sunglasses_alpha_d7dabb26.png",
+    "size": 19132,
+    "sha256": "d7dabb266d7fc0c447815f643a8f963334f4feaab9025b3fb6540c93c759106e"
+   }
+  },
+  "Surveyor": {
+   "anim": {
+    "file": "surveyor_anim_9387a536.json",
+    "size": 18602,
+    "sha256": "9387a536850d58a19a83461c9848383c16159593484b10b197c988cb002c8b4b"
+   },
+   "plate": {
+    "file": "surveyor_plate_5c4b57fa.jpg",
+    "size": 14835,
+    "sha256": "5c4b57faaa0875709779e4237cc6eda88e09437554ccb3062ce61a93d549740d"
+   },
+   "atlas": {
+    "file": "surveyor_atlas_d6c5b9cc.jpg",
+    "size": 152309,
+    "sha256": "d6c5b9ccd95d7a656cc3526d25776fbb03f6d5ec70216816f9da391ed150c40b"
+   },
+   "alpha": {
+    "file": "surveyor_alpha_119b906c.png",
+    "size": 23742,
+    "sha256": "119b906c6ed18a8e7c75d132e67d3fb8fe9248ee3b17ad297ca025106bb09482"
+   }
+  },
+  "Swapper": {
+   "anim": {
+    "file": "swapper_anim_2202f5cb.json",
+    "size": 17174,
+    "sha256": "2202f5cb1b48a9526e3bc215e0180bb91f6003e078c362347e2006781dcd079c"
+   },
+   "plate": {
+    "file": "swapper_plate_0f644d06.jpg",
+    "size": 15127,
+    "sha256": "0f644d06e5110631c48fc284ecd62611571e6e9874321d4675887dbbca64b487"
+   },
+   "atlas": {
+    "file": "swapper_atlas_a2eec366.jpg",
+    "size": 91846,
+    "sha256": "a2eec3660a09a90298f1478062d50422a8b0081b1e8b2f8fae60e809f2bb8f8f"
+   },
+   "alpha": {
+    "file": "swapper_alpha_47e9dcbf.png",
+    "size": 16653,
+    "sha256": "47e9dcbf7e06114e5b3893773bd441eb300ca05784638ccdb76d9f1297b1d274"
+   }
+  },
+  "Tesla": {
+   "anim": {
+    "file": "tesla_anim_b1928903.json",
+    "size": 15903,
+    "sha256": "b192890332c2fd295b7f94a4a8202252185cafdee4049656473daf760143b455"
+   },
+   "plate": {
+    "file": "tesla_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "tesla_atlas_8be9939a.jpg",
+    "size": 311463,
+    "sha256": "8be9939a85e3a8b6528b4dc27b02cf71d4d12a33fca44e09e8d3de0ab90fabaf"
+   },
+   "alpha": {
+    "file": "tesla_alpha_10ca0ea0.png",
+    "size": 51620,
+    "sha256": "10ca0ea0c731b9fb7ac7a47a8104cf65fe6c68c05284b9430d500b06eee5649f"
+   }
+  },
+  "Thief": {
+   "anim": {
+    "file": "thief_anim_09d8fbc4.json",
+    "size": 8750,
+    "sha256": "09d8fbc4524e4909d31cc4d07828f53214709c9d5069df1d0c0ea0adc729a150"
+   },
+   "plate": {
+    "file": "thief_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "thief_atlas_be4a33af.jpg",
+    "size": 110953,
+    "sha256": "be4a33af7aec673c8b38aed4ebbce211ffdd141ced82b69f6291c6511028f116"
+   },
+   "alpha": {
+    "file": "thief_alpha_89beac85.png",
+    "size": 21784,
+    "sha256": "89beac85fb65a4cfc89409f90555b0e07b25d5db414c85f045411c7fd3746122"
+   }
+  },
+  "Tiebreaker": {
+   "anim": {
+    "file": "tiebreaker_anim_7faa6fcd.json",
+    "size": 23306,
+    "sha256": "7faa6fcd03562a3e03453c575e8b6d2b3d73247cc6f5560821063072695a8748"
+   },
+   "plate": {
+    "file": "tiebreaker_plate_0f644d06.jpg",
+    "size": 15127,
+    "sha256": "0f644d06e5110631c48fc284ecd62611571e6e9874321d4675887dbbca64b487"
+   },
+   "atlas": {
+    "file": "tiebreaker_atlas_58a9751c.jpg",
+    "size": 111552,
+    "sha256": "58a9751c06b3ce759774df0e9b7fcca89b9c5378ade86aa0221fc6ba648bb987"
+   },
+   "alpha": {
+    "file": "tiebreaker_alpha_aff6901e.png",
+    "size": 21178,
+    "sha256": "aff6901e185edecea52e192c08613dfda801b5b67d500756d8f7e46c47dfdb91"
+   }
+  },
+  "Time Master": {
+   "anim": {
+    "file": "timemaster_anim_bc5492ec.json",
+    "size": 16895,
+    "sha256": "bc5492ec6901fcddfe744a5b77893f0daa3b0b4098e8d6ac4239374ee3dbc153"
+   },
+   "plate": {
+    "file": "timemaster_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "timemaster_atlas_8463f440.jpg",
+    "size": 213840,
+    "sha256": "8463f440b72a6e04ce55a4c60de12aa8d7f9ef8d4fc9e2fd4901b30d2f338c41"
+   },
+   "alpha": {
+    "file": "timemaster_alpha_7601aa62.png",
+    "size": 20429,
+    "sha256": "7601aa62f20d7668aa732958ea6f95e4dcc7d37b7e77bc659ddf3d834d8b826b"
+   }
+  },
+  "Tracker": {
+   "anim": {
+    "file": "tracker_anim_7bc49ec8.json",
+    "size": 8630,
+    "sha256": "7bc49ec89bf84c661378550cabadf085d59b9b8ef8b410ac5a12b975ffe01754"
+   },
+   "plate": {
+    "file": "tracker_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "tracker_atlas_cb18e3db.jpg",
+    "size": 129782,
+    "sha256": "cb18e3db3ba855cf610fe576dab97fa5fe5423d00c27e88dbb76d212c4a993f4"
+   },
+   "alpha": {
+    "file": "tracker_alpha_e4a7bac8.png",
+    "size": 24355,
+    "sha256": "e4a7bac8dea40db87e27c5959cd62a117fe77fdb1cde90cfb12652be4632507b"
+   }
+  },
+  "Trapper": {
+   "anim": {
+    "file": "trapper_anim_7fbe960e.json",
+    "size": 9758,
+    "sha256": "7fbe960eb24fbf12e33bf246965004acafc1570f039c09de4a26c254b06213c4"
+   },
+   "plate": {
+    "file": "trapper_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "trapper_atlas_6acc45ac.jpg",
+    "size": 97713,
+    "sha256": "6acc45ac867f1625ac4cea3ac906f274a25a31f956c49b4dd207a0e5e8fc7df6"
+   },
+   "alpha": {
+    "file": "trapper_alpha_5373b195.png",
+    "size": 18393,
+    "sha256": "5373b19515b4e92b7a87c87c8f67687b471f6fe56e69def43456692f1df01575"
+   }
+  },
+  "Trickster": {
+   "anim": {
+    "file": "trickster_anim_112bce75.json",
+    "size": 21043,
+    "sha256": "112bce7584d82a3b01dc7ec64bb9da0de6fbfde934037c016ef6edd383cae9a8"
+   },
+   "plate": {
+    "file": "trickster_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "trickster_atlas_428efbed.jpg",
+    "size": 214465,
+    "sha256": "428efbed26c618061638fb503cc87274e3a0c89950a3dd5d1f04b846ec2fc0a3"
+   },
+   "alpha": {
+    "file": "trickster_alpha_0a582a05.png",
+    "size": 40287,
+    "sha256": "0a582a0518e0757a374f8c2bfb1e5178907b1dd9eace80e5e5f845124ef83981"
+   }
+  },
+  "Vampire": {
+   "anim": {
+    "file": "vampire_anim_01f9d765.json",
+    "size": 9730,
+    "sha256": "01f9d765ca2d785375ac458eea4f59ce76e6c4c2fb62e4d8a74b83ec2d173b30"
+   },
+   "plate": {
+    "file": "vampire_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "vampire_atlas_9b1016f7.jpg",
+    "size": 166842,
+    "sha256": "9b1016f7a95e6ac0cd15afab028ef11a7539d70ca73847eb946ce57a073917a9"
+   },
+   "alpha": {
+    "file": "vampire_alpha_98cd879b.png",
+    "size": 35671,
+    "sha256": "98cd879bb96b2950a59561007f6fb0740893041a3ffec32abad30be562b220fc"
+   }
+  },
+  "VIP": {
+   "anim": {
+    "file": "vip_anim_1a3cff97.json",
+    "size": 19578,
+    "sha256": "1a3cff97fce66606872d59fff8a4918ec5e5ca2731737fcaccc78853bd62b0b4"
+   },
+   "plate": {
+    "file": "vip_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "vip_atlas_a4fc9079.jpg",
+    "size": 173271,
+    "sha256": "a4fc907922b8441f6b2f1f120c4ecc3944241d633b135f808ec188c58f22eb88"
+   },
+   "alpha": {
+    "file": "vip_alpha_fc9c6810.png",
+    "size": 18321,
+    "sha256": "fc9c6810b4535b8790acdf3872d4348f955e3052a26fdc487899a5f22903e40d"
+   }
+  },
+  "Void": {
+   "anim": {
+    "file": "void_anim_07c183a6.json",
+    "size": 18410,
+    "sha256": "07c183a6e0ea497395c2f28b6993d482ba2322d528134b9ab8096fdf7c97888c"
+   },
+   "plate": {
+    "file": "void_plate_1a996a3f.jpg",
+    "size": 15174,
+    "sha256": "1a996a3f77e696a1e090e4debfc18ac533858c781d35c29f22fd7ed4f47d036e"
+   },
+   "atlas": {
+    "file": "void_atlas_e31d5f5a.jpg",
+    "size": 121161,
+    "sha256": "e31d5f5ad58745e4bc004fdd08dc1be6d19958e9082351c6eac75366253fc6f8"
+   },
+   "alpha": {
+    "file": "void_alpha_b8853ffd.png",
+    "size": 21577,
+    "sha256": "b8853ffd68b66439584cba1d1a594b2b5bf63e254ba3edf7e84f7ae6531284d6"
+   }
+  },
+  "Vulture": {
+   "anim": {
+    "file": "vulture_anim_43a25688.json",
+    "size": 8382,
+    "sha256": "43a25688e634121b4466b4523e909f87a56264467f2ba3a5cb3539d737029ec9"
+   },
+   "plate": {
+    "file": "vulture_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "vulture_atlas_03ffc662.jpg",
+    "size": 137790,
+    "sha256": "03ffc66288e0a9729fa00e692e5871d9b6676e771b5f1f0b0615181d7bdf0a3e"
+   },
+   "alpha": {
+    "file": "vulture_alpha_80a00a12.png",
+    "size": 26804,
+    "sha256": "80a00a1250a213dce3496d4bf7709529b6ea5a5b5250268c3d9bfa7b7cd59332"
+   }
+  },
+  "Warlock": {
+   "anim": {
+    "file": "warlock_anim_93a46f39.json",
+    "size": 12234,
+    "sha256": "93a46f3972eb779a8eaf62dcd62f6420464a96a9bf42b817c0274866ee4f2a83"
+   },
+   "plate": {
+    "file": "warlock_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "warlock_atlas_a0797b89.jpg",
+    "size": 162058,
+    "sha256": "a0797b8985424fc7d8a5fed5ac33b4aa3d5073d7cb116ab418366d616e8b1a4c"
+   },
+   "alpha": {
+    "file": "warlock_alpha_2e100aff.png",
+    "size": 26183,
+    "sha256": "2e100aff6b51cd6f125a25430ee7e2404d84694c9020846dff6f8a6a1584ab14"
+   }
+  },
+  "Werewolf": {
+   "anim": {
+    "file": "werewolf_anim_b1890b96.json",
+    "size": 49875,
+    "sha256": "b1890b9642ef1d0dfb868abe25274cba0fa5c57ac31ab3941975a7aabc3ce2e2"
+   },
+   "plate": {
+    "file": "werewolf_plate_a0dc1682.jpg",
+    "size": 13188,
+    "sha256": "a0dc16827f3838ed7d7ccfcad82727efe36892ae25ecc694218c68a9485cf74f"
+   },
+   "atlas": {
+    "file": "werewolf_atlas_573b66a0.jpg",
+    "size": 193421,
+    "sha256": "573b66a01c9eac8932760395217245ee06178bddfce66c7bcc709a794498307d"
+   },
+   "alpha": {
+    "file": "werewolf_alpha_8818465c.png",
+    "size": 34611,
+    "sha256": "8818465c4e1b5bd524f1292a493976dd7488d05718a71d49f27d77e300a27c4a"
+   }
+  },
+  "Witch": {
+   "anim": {
+    "file": "witch_anim_8981a57b.json",
+    "size": 16854,
+    "sha256": "8981a57b871733299e18f159abfe57c78a43b3e18ae2560897deec7345ab6527"
+   },
+   "plate": {
+    "file": "witch_plate_8859df24.jpg",
+    "size": 15163,
+    "sha256": "8859df241bca8e4b66a97a94a8c26c90b1fcfbe442229d175e7349d96171b328"
+   },
+   "atlas": {
+    "file": "witch_atlas_74578639.jpg",
+    "size": 143929,
+    "sha256": "745786396bfd7eb1ced4771ca7214582445d3cdff10db5dbfd22c22b478c0381"
+   },
+   "alpha": {
+    "file": "witch_alpha_5f2c9716.png",
+    "size": 23409,
+    "sha256": "5f2c971627308c70c4ba8de6d9c8e398bf5bfc6a4be1288ba1169ee3c4908267"
+   }
+  },
+  "Witness": {
+   "anim": {
+    "file": "witness_anim_50c032df.json",
+    "size": 21778,
+    "sha256": "50c032df82c0f06e643e0fcc1ef02ee0f5002b7d40aa5e112ec224bca1aaf28d"
+   },
+   "plate": {
+    "file": "witness_plate_6d975455.jpg",
+    "size": 15204,
+    "sha256": "6d97545578abf95054a578657bd1615b0038b884b6c2e49dcb3e4ede99249d51"
+   },
+   "atlas": {
+    "file": "witness_atlas_fee08f04.jpg",
+    "size": 161967,
+    "sha256": "fee08f0443641b75ee26fb822c0a1da82635135bf65b5b05851f4c8ddc3a202c"
+   },
+   "alpha": {
+    "file": "witness_alpha_7f97a475.png",
+    "size": 25393,
+    "sha256": "7f97a4759afa4d3b4a08537ff16df01afbaa6d9dcf5bfb01c674bd258891274c"
+   }
+  },
+  "Yo-Yo": {
+   "anim": {
+    "file": "yoyo_anim_c73ca527.json",
+    "size": 11114,
+    "sha256": "c73ca52722dcb4db52a25d0ff30ff3e020f78963d5a299998eedd19d32e5fe6d"
+   },
+   "plate": {
+    "file": "yoyo_plate_1026ec7b.jpg",
+    "size": 13209,
+    "sha256": "1026ec7b9096f7204cc898a23cf5149d8bcf61da0b224e4de20ed6a44b36151d"
+   },
+   "atlas": {
+    "file": "yoyo_atlas_3aff9b2a.jpg",
+    "size": 206353,
+    "sha256": "3aff9b2adf0b47c8f64524bcb6213887bb2c041490908a355b005fafb6d644e7"
+   },
+   "alpha": {
+    "file": "yoyo_alpha_7f6a30f2.png",
+    "size": 39062,
+    "sha256": "7f6a30f245ea6e43bb04cb8a43e0455089abf6c09895f5b435127899c5018fab"
+   }
+  }
+ }
+}
